@@ -1,0 +1,117 @@
+Two pointers:
+	Remove Duplicates From Sorted Array
+	Merge Sorted Array
+	Intersection of Two Arrays 2
+	Two SUM
+	3SUM
+	4SUM
+	Sort Colors
+	Move zeroes
+	Partition Labels
+Strings:
+	Roman to Integer
+	Integer to Roman
+	Valid Palindrome
+	Valid Anagram
+	Reverse String
+	Zigzag Conversion
+	Length of Last Word
+Linked Lists:
+	Middle of the Linked List
+	Linked List Cycle
+	Remove Duplicates from Sorted List
+	Reverse Linked List
+	Palindrome Linked List
+	Merge Two Sorted Lists
+	Delete Node in a Linked List
+	Add Two Numbers
+	Sort List
+Trees:
+	Binary Tree Inorder Traversal
+	Binary Tree Preorder Traversal
+	Binary Tree Postorder Traversal
+	Binary Tree Level Order Traversal
+	Maximum Depth of Binary Tree
+	Minimum Depth of Binary Tree
+	Path Sum
+	Symmetric Tree
+	Same Tree
+	Binary Tree Paths
+	Validate Binary Search Tree
+	Lowest Common Ancestor of a Binary Tree
+	Binary Tree Right Side View
+Hash Tables:
+	Intersection of Two Arrays
+	Two Sum
+	Isomorphic Strings
+	Word Pattern
+	Valid Sudoku
+	Group Anagrams
+	LRU Cache
+	Top K Frequent Elements
+Matrix:
+	Matrix Diagonal Sum
+	Valid Sudoku
+	01 Matrix
+	Maximal Square
+	Set Matrix Zeroes
+	Spiral Matrix
+	Rotate Image
+Stacks && Queues:
+	Valid Parentheses
+	Min Stack
+	Daily Temperatures
+	Implement Queue using Stacks
+	Implement Stack using Queues
+	Minimum Remove to Make Valid Parentheses
+Bit manipulation:
+	Power of two
+	Power of four
+	Counting Bits
+	Reverse Bits
+	Hamming Distance
+	Total Hamming Distance
+Sliding Windows:
+	Longest Substring Without Repeating Characters
+	Longest Repeating Character Replacement
+	Fruit Into Baskets
+	Find All Anagrams in a String
+	Sliding Window Maximum
+Search with return:
+	Permutations
+	Combination Sum
+	Subsets
+	Generate Parentheses
+	Remove Invalid Invalid Parentheses
+	N-Queues
+	N-Queues 2
+Unsorted:
+	DFS/BFS
+	Prefix Tree
+	Suffix Tree
+	Quad True
+	The Tree of Segments
+	A System of Disjoint Sets
+	Lee Algorithm
+	Dijkstra Algorithm
+	Floyd-Warshall Algorithm
+	Topology sorting
+	Maximum Subarray Problem. Kadane's Algorithm
+	Knuth-Morris-Pratt Algorithm
+	Dynamic programming
+	Quick select
+	Merkle tree
+	Persistent Data Structures
+	Bloom FIlter
+	Bi map
+	B/B+ tree
+	LSM Tree
+	Splay tree
+	Ring buffer
+	Fibonacci heap
+	Greedy algorithms
+	
+
+	
+
+
